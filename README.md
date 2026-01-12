@@ -14,3 +14,9 @@ And I may or may not have side collaborationprojects like a podcast or vulnwiki
 ## Future projects
 An AI agent that can negotiate deals on your behalf in the DEX world.
 A finance tracking app for people to understand trends long and short term.
+
+---
+##Likes
+Pho, Golf, Stormtroopers
+##Dislike
+Fighting Traffic to get to "the work spot", Acronyms.
