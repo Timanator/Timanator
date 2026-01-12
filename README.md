@@ -1,6 +1,6 @@
 ## About me
 
-An IT guy, that once thought all smart tech people are wizards with big beards and pointing hats like Ghandolf. Now I still cant grow any facial hair to look the part, so no wizard for me?
+An IT guy, that once thought all smart tech people are wizards with big beards and pointing hats like Ghandolf. Now I still cant grow any facial hair to look the part, so no wizardry for me?
 
 
 ---
