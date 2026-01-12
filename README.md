@@ -16,7 +16,6 @@ An AI agent that can negotiate deals on your behalf in the DEX world.
 A finance tracking app for people to understand trends long and short term.
 
 ---
-##Likes
-Pho, Golf, Stormtroopers
-##Dislike
+## Likes/Dislikes
+Pho, Golf, Stormtroopers/
 Fighting Traffic to get to "the work spot", Acronyms.
