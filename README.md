@@ -5,7 +5,7 @@ An IT guy, that once thought all smart tech people are wizards with big beards a
 
 ---
 ## What I currently work on
-CISSP and OSIP certified. 
+CISSP and OSIP certified. <br>
 Lots of IT and business projects like Vulnerability management, Risk assessment and Over all IT architceting.
 And I may or may not have side collaborationprojects like a podcast or vulnwiki
 
